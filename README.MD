@@ -33,3 +33,19 @@ This project helped me become more comfortable using Linux and the command line.
 
 ## Screenshots
 Screenshots of my work are available in the `screenshots` folder.
+## Project Screenshots
+
+### 1. Basic Linux Commands
+![Basic Linux Commands](Screenshots/Basic%20Commands.png)
+
+### 2. File Management
+![File Management](Screenshots/Creating%20file%20%26%20management.png)
+
+### 3. Linux File Permissions
+![File Permissions](Screenshots/File%20Permissions.png)
+
+### 4. System Updates
+![System Updates](Screenshots/Updates.png)
+
+### 5. Network Connectivity Test
+![Network Connectivity](Screenshots/Checking%20Ping.png)
